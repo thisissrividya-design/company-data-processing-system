@@ -1,5 +1,5 @@
 # Comapany data processing system
-this project id developed using python
+this project is developed using python
 ## Features
 - OOP (Classes and Objects)
 - Inheritance

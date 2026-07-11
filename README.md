@@ -1,2 +1,9 @@
-# company-data-processing-system
-python OOP project for employee salary processing using CSV,JSON, and report generation
+# comapany data processing system
+
+python OOP project using
+-Inheritance
+-Method Overriding
+-CSV File Handling
+-JSON File Handling
+-EXception Handling
+-Report Generation
